@@ -8,8 +8,8 @@ import whiteKitchenDetail from "../assets/Screenshot_20260921_093457_com.whatsap
 import darkKitchenDetail from "../assets/Screenshot_20260921_093535.jpg.asset.json";
 import darkKitchen from "../assets/Screenshot_20260921_093544.jpg.asset.json";
 import livingRoom from "../assets/Screenshot_20260921_093620.jpg.asset.json";
-import heroFilm from "../assets/mastercraft-hero.mp4.asset.json";
-import projectFilm from "../assets/mastercraft-project-film.mp4.asset.json";
+import heroFilm from "../assets/mastercraft-hero.webm.asset.json";
+import projectFilm from "../assets/mastercraft-project-film.webm.asset.json";
 
 export const assets = {
   mediaWall: mediaWall.url,
